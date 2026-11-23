@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Your private saved chats - NEVER publish these
+*.db
+*.sqlite
+
+# Secrets and editor/OS junk
+.env
+.vscode/
+.DS_Store
+Thumbs.db
